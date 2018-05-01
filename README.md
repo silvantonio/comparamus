@@ -1,4 +1,4 @@
-Comparamus: image image comparison 
+Comparamus: image comparison 
 =======================================
 Image comparison project
 
